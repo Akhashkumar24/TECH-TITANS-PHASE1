@@ -45,13 +45,6 @@ All agents interact through a **custom A2A message protocol** built from scratch
 * Gemini API Key (set in `.env` or `config.py`)
 * SMTP Credentials for sending emails
 
-### 🛠️ Installation
-
-```bash
-git clone https://github.com/team-stark/job-matching-system.git
-cd job-matching-system/cli_prototype
-pip install -r requirements.txt
-```
 
 ### ▶️ Run the CLI
 
