@@ -1,7 +1,6 @@
 
 # 🧠 AI-Powered Job Matching CLI - Document Similarity & Ranking System
 
-## 🔍 Overview
 
 This CLI-based prototype implements a **Multi-Agent Recruitment System** that automates the comparison and ranking of consultant profiles against job descriptions (JDs). It is designed to reduce manual screening time and improve the accuracy of candidate-job matching by leveraging a custom-built **Agent-to-Agent (A2A) Protocol** and **Google Gemini AI**.
 
